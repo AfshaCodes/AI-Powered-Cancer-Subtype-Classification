@@ -1,0 +1,22 @@
+======================================================================
+CANCER SUBTYPE ANALYSIS REPORT
+======================================================================
+
+Total Patients: 3154
+Number of Clusters: 3
+
+
+--- Cluster 0 ---
+N = 412 patients (13.1%)
+Age: 54.8 ± 12.0 years
+Deceased: 125 (30.3%)
+
+--- Cluster 1 ---
+N = 1645 patients (52.2%)
+Age: 57.2 ± 14.3 years
+Deceased: 414 (25.2%)
+
+--- Cluster 2 ---
+N = 1097 patients (34.8%)
+Age: 56.0 ± 14.8 years
+Deceased: 447 (40.7%)
