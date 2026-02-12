@@ -23,8 +23,6 @@
 - [Future Work](#-future-work)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Citation](#-citation)
-- [Contact](#-contact)
 
 ---
 
@@ -308,11 +306,6 @@ Loss = MSE(reconstruction) + β * KL_Divergence
 - Cluster descriptions
 - Academic references
 
-### Screenshots
-
-*[Add screenshots here after deployment]*
-
----
 
 ## 🔮 Future Work
 
@@ -368,18 +361,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📚 Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@software{cancer_subtype_predictor,
-  author = {Your Name},
-  title = {AI-Powered Cancer Subtype Predictor},
-  year = {2026},
-  url = {https://github.com/yourusername/cancer-stratification}
-}
-```
 
 **TCGA Citation:**
 ```bibtex
@@ -395,15 +377,6 @@ If you use this code in your research, please cite:
 ```
 
 ---
-
-## 📞 Contact
-
-**Author:** [Your Name]  
-**Email:** your.email@example.com  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Twitter:** @yourhandle  
-
-**Project Link:** https://github.com/yourusername/cancer-stratification
 
 ---
 
