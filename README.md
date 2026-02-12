@@ -1,6 +1,13 @@
 # 🧬 AI-Powered Cancer Subtype Predictor
 
 > Deep learning-based breast cancer stratification using Variational Autoencoders trained on TCGA genomics data
+>https://github.com/AfshaCodes/AI-Powered-Cancer-Subtype-Classification/blob/main
+> https://github.com/AfshaCodes/AI-Powered-Cancer-Subtype-Classification/blob/main
+> https://github.com/AfshaCodes/AI-Powered-Cancer-Subtype-Classification/blob/main/3.PNG/2.PNG/1.PNG
+> 
+
+
+
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
