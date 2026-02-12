@@ -1,0 +1,51 @@
+# Cancer Stratification Project - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ============================================
+# Core Deep Learning
+# ============================================
+torch==2.10.0
+torchvision==0.19.0
+torchaudio==2.5.0
+
+# ============================================
+# Data Science & ML
+# ============================================
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.4.0
+scipy==1.11.4
+
+# ============================================
+# Visualization
+# ============================================
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+umap-learn==0.5.11
+
+# ============================================
+# Survival Analysis
+# ============================================
+lifelines==0.27.8
+
+# ============================================
+# Web Framework
+# ============================================
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# ============================================
+# Utilities
+# ============================================
+requests==2.31.0
+tqdm==4.66.1
+
+# ============================================
+# Optional (for advanced features)
+# ============================================
+# jupyter==1.0.0           # For notebooks
+# ipython==8.18.1          # Enhanced Python shell
+# black==23.12.1           # Code formatter
+# flake8==7.0.0            # Linter
+# pytest==7.4.3            # Testing framework
