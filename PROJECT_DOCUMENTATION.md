@@ -401,15 +401,6 @@ Access at: http://127.0.0.1:5000
 
 ---
 
-## 📞 Support & Contact
-
-**Issues:** Open an issue on GitHub
-**Questions:** [your.email@example.com]
-**Documentation:** See README.md in repository
-**Demo:** http://your-deployed-app.com
-
----
-
 ## 🔄 Version History
 
 ### v1.0.0 (February 2026)
